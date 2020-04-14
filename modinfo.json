@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "power",
+  "name": "Power",
+  "author": "Daxx367",
+  "description": "A semi-realistic power mod, currently indev expect everthing to change often.",
+  "version": "1.0.0",
+  "dependency": {
+    "game": "1.12.14"
+  }
+}
